@@ -36,7 +36,8 @@ project-root
 3. The browser will launch and execute the steps automatically.
 
 > ⚠️ **Note:** This script **cannot be run directly using `mvn test`** because it is a standalone `main()` method, not a TestNG test.
-> ⚠️ **Note:** The generated code uses `Thread.sleep()` to slow down steps so they are visible during execution.  
+
+> ⚠️ **Note:** The generated code uses `Thread.sleep()` to slow down steps so they are visible during execution.
 
 
 
