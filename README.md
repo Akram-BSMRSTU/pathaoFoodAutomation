@@ -29,7 +29,7 @@ project-root
 ├── pom.xml
 └── README.md
 ```
-### Run via IntelliJ
+## 🚀 Run via IntelliJ
 
 1. Open `allpagetest.java` in IntelliJ.
 2. Click the **Run** button for `allpagetest.main()`.
